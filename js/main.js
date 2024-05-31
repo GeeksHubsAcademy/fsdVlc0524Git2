@@ -1,0 +1,1 @@
+console.log("Forget about weekends huahahahahahahahhaha");
